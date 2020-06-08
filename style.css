@@ -1,5 +1,5 @@
 * {
-    background-color: whitesmoke;
+    background-color: black;
 }
 
 body {
@@ -8,6 +8,7 @@ body {
 
 h1, h3, h4 {
     font-family: 'IBM Plex Mono', monospace;
+    color : white;
 }
 
 a {
